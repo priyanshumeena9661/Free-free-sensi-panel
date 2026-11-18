@@ -1,4 +1,5 @@
 [app]
+android.accept_sdk_license = True
 title = Free Fire India Sensi Generator
 package.name = sensigenerator
 package.domain = org.example
